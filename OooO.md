@@ -1,19 +1,18 @@
 ﻿[响应式简历网页](https://huanghongrui.github.io/Raine_Resume/Resume/)
 
-## 个人信息
-> 姓名：黄鸿锐
 
-> 年龄：23 / 男
+[Node.js便笺](http://memo.luckyman.xyz)
 
-> 电话： 13202220845
+> 项目简介: 
+这是一个单页应用项目，进入首页可看所有用户的便签(会显示创建或更新时间与便笺主人昵称)，想要实现新增、删除、修改便签只需登录GitHub账号，数据同步，自动瀑布流排版、鼠标移动等功能。
 
-> 邮箱： 464362353@qq.com
+> 项目详情: 
+使用使用基于Node.js的Express框架实现，前端使用代码结构的组织和模块化开发方式、Webpack 和 Less 构建.后端使用Express、Nodejs调试、中间件、路由，数据库使用sequelize.最后pm2部署上线.
 
-> 求职意向： 前端工程师
+> 项目收获：
+基本理解前后端交互过程，对中间件开发有了新一层理解
 
-> github地址：https://github.com/HuangHongRui
-
-> 简书博客地址：http://www.jianshu.com/u/4fe15f8f16d3
+> 项目源码:https://github.com/HuangHongRui/Express-memo
 
 ## 项目经历
 [在线简历编辑器](https://huanghongrui.github.io/VueResume/dist/#/)
@@ -33,18 +32,15 @@
 > 项目源码: 
 >https://github.com/HuangHongRui/VueResume
 
-[Node.js便笺](http://memo.luckyman.xyz)
+[企业站实现](https://huanghongrui.github.io/Website_Page/bin/)
 
-> 项目简介: 
-这是一个单页应用项目，进入首页可看所有用户的便签(会显示创建或更新时间与便笺主人昵称)，想要实现新增、删除、修改便签只需登录GitHub账号，数据同步，自动瀑布流排版、鼠标移动等功能。
+> 简介：一个使用webapck模块化开发的个人企业站
 
-> 项目详情: 
-使用使用基于Node.js的Express框架实现，前端使用代码结构的组织和模块化开发方式、Webpack 和 Less 构建.后端使用Express、Nodejs调试、中间件、路由，数据库使用sequelize.最后pm2部署上线.
+> 项目详情: 良好的页面文档结构,使用封装组件和使用Webpack构建.
 
-> 项目收获：
-基本理解前后端交互过程，对中间件开发有了新一层理解
+> 项目收获：了解企业站开发模式，webpack模块化管理代码
 
-> 项目源码:https://github.com/HuangHongRui/Express-memo
+> 项目源码: https://github.com/HuangHongRui/Website_Page
 
 [TodoList](https://huanghongrui.github.io/Vue_ToDo/LeanCloud/page.html)
 
@@ -55,16 +51,6 @@
 > 项目收获：这是我第一次使用Vue开发项目，基本了解Vue.js的项目开发方式。
 
 > 项目源码: https://github.com/HuangHongRui/Vue_ToDo
-
-[企业站实现](https://huanghongrui.github.io/Website_Page/bin/)
-
-> 简介：一个使用webapck模块化开发的个人企业站
-
-> 项目详情: 良好的页面文档结构,使用封装组件和使用Webpack构建.
-
-> 项目收获：了解企业站开发模式，webpack模块化管理代码
-
-> 项目源码: https://github.com/HuangHongRui/Website_Page
 
 插件：
 
@@ -109,7 +95,26 @@
 
 14. 了解掌握浏览器的调试，可快速寻找bug, 面向Google 及 Stack Overflow编程。
 
+## 个人信息
+
+> 姓名：黄鸿锐
+
+> 年龄：23 / 男
+
+> 电话： 13202220845
+
+> 邮箱： 464362353@qq.com
+
+> 求职意向： 前端工程师
+
+> 期待薪酬：　9K－11K
+
+> github地址：https://github.com/HuangHongRui
+
+> 简书博客地址：http://www.jianshu.com/u/4fe15f8f16d3
+
 ## 关于我
+
 喜欢学习新技术，对新技术保持高涨的热情，能够突破大脑舒适区。
 
 自学能力强，具备独立分析问题，解决问题的能力，能够自我突破。
