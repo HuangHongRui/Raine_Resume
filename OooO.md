@@ -1,4 +1,4 @@
-﻿[响应式简历网页](https://huanghongrui.github.io/Raine_Resume/Resume/)
+﻿[响应式简历网页](https://huanghongrui.github.io/Raine_Resume/Resume/):https://huanghongrui.github.io/Raine_Resume/Resume/[用客户端打开,可以直接点击链接查看所有链接]
 
 
 [Node.js便笺](http://memo.luckyman.xyz)
@@ -91,9 +91,7 @@
 
 12. 能够使用 Node.js 搭配 Express 进行基本后台开发。
 
-13. 了解React,redux，生命周期，可以进行一些简单的小规模项目开发。
-
-14. 了解掌握浏览器的调试，可快速寻找bug, 面向Google 及 Stack Overflow编程。
+13. 了解掌握浏览器的调试，可快速寻找bug, 面向Google 及 Stack Overflow编程。
 
 ## 个人信息
 
@@ -106,8 +104,6 @@
 > 邮箱： 464362353@qq.com
 
 > 求职意向： 前端工程师
-
-> 期待薪酬：　9K－11K
 
 > github地址：https://github.com/HuangHongRui
 
