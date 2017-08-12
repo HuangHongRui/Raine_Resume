@@ -1,5 +1,4 @@
-﻿[响应式简历网页](https://huanghongrui.github.io/Raine_Resume/Resume/):https://huanghongrui.github.io/Raine_Resume/Resume/[用客户端打开,可以直接点击链接查看所有链接]
-
+﻿[响应式简历网页](https://huanghongrui.github.io/Raine_Resume/Resume/):https://huanghongrui.github.io/Raine_Resume/Resume/
 
 [Node.js便笺](http://memo.luckyman.xyz)
 
