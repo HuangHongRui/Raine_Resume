@@ -12,9 +12,9 @@
 > 技术涉及：
 promise / 动画 / Webpack / less / 移动端web
 
-> 项目源码:
+> 项目源码:https://github.com/HuangHongRui/NetEaseMusic
 
-[Node.js便笺](https://github.com/HuangHongRui/NetEaseMusic)
+[Node.js便笺](http://memo.luckyman.xyz/)
 
 > 项目简介: 
 这是一个单页应用项目，进入首页可看所有用户的便签(会显示创建或更新时间与便笺主人昵称)，想要实现新增、删除、修改便签只需登录GitHub账号，数据同步，自动瀑布流排版、鼠标移动等功能。
