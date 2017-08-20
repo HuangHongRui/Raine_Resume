@@ -3,29 +3,29 @@
 ## 项目经历
 [手机云音乐](http://music.luckyman.xyz/bin/)
 
-> 项目简介: 
+> 项目简介：
 作为一个乐迷.一个音乐播放器是不可少的.
 
-> 项目详情: 
+> 项目详情：
 根据网易云的主要5个主页,而制作.分别包含:主页(包含3页切换),歌单页,播放页..
 
 > 技术涉及：
 promise / 动画 / Webpack / less / 移动端web
 
-> 项目源码:https://github.com/HuangHongRui/NetEaseMusic
+> 项目源码：https://github.com/HuangHongRui/NetEaseMusic
 
 [Node.js便笺](http://memo.luckyman.xyz/)
 
-> 项目简介: 
+> 项目简介：
 这是一个单页应用项目，进入首页可看所有用户的便签(会显示创建或更新时间与便笺主人昵称)，想要实现新增、删除、修改便签只需登录GitHub账号，数据同步，自动瀑布流排版、鼠标移动等功能。
 
-> 项目详情: 
+> 项目详情：
 使用使用基于Node.js的Express框架实现，前端使用代码结构的组织和模块化开发方式、Webpack 和 Less 构建.后端使用Express、Nodejs调试、中间件、路由，数据库使用sequelize.最后pm2部署上线.
 
 > 项目收获：
 基本理解前后端交互过程，对中间件开发有了新一层理解
 
-> 项目源码:https://github.com/HuangHongRui/Express-memo
+> 项目源码：https://github.com/HuangHongRui/Express-memo
 
 [在线简历编辑器](https://huanghongrui.github.io/VueResume/dist/#/)
 
@@ -41,18 +41,19 @@ promise / 动画 / Webpack / less / 移动端web
 
 > vue.js以及vuex、scss的深入实践，以及es6的进一步理解。
 
-> 项目源码: 
+> 项目源码：
 >https://github.com/HuangHongRui/VueResume
 
 [企业站实现](https://huanghongrui.github.io/Website_Page/bin/)
 
 > 简介：一个使用webapck模块化开发的个人企业站
 
-> 项目详情: 良好的页面文档结构,使用封装组件和使用Webpack构建.
+> 项目详情：
+良好的页面文档结构,使用封装组件和使用Webpack构建.
 
 > 项目收获：了解企业站开发模式，webpack模块化管理代码
 
-> 项目源码: https://github.com/HuangHongRui/Website_Page
+> 项目源码：https://github.com/HuangHongRui/Website_Page
 
 [TodoList](https://huanghongrui.github.io/Vue_ToDo/LeanCloud/page.html)
 
@@ -62,7 +63,7 @@ promise / 动画 / Webpack / less / 移动端web
 
 > 项目收获：这是我第一次使用Vue开发项目，基本了解Vue.js的项目开发方式。
 
-> 项目源码: https://github.com/HuangHongRui/Vue_ToDo
+> 项目源码：https://github.com/HuangHongRui/Vue_ToDo
 
 插件：
 
