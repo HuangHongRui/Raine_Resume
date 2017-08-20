@@ -1,6 +1,20 @@
 ﻿[响应式简历网页](https://huanghongrui.github.io/Raine_Resume/Resume/):https://huanghongrui.github.io/Raine_Resume/Resume/
 
-[Node.js便笺](http://memo.luckyman.xyz)
+## 项目经历
+[手机云音乐](http://music.luckyman.xyz/bin/)
+
+> 项目简介: 
+作为一个乐迷.一个音乐播放器是不可少的.
+
+> 项目详情: 
+根据网易云的主要5个主页,而制作.分别包含:主页(包含3页切换),歌单页,播放页..
+
+> 技术涉及：
+promise / 动画 / Webpack / less / 移动端web
+
+> 项目源码:
+
+[Node.js便笺](https://github.com/HuangHongRui/NetEaseMusic)
 
 > 项目简介: 
 这是一个单页应用项目，进入首页可看所有用户的便签(会显示创建或更新时间与便笺主人昵称)，想要实现新增、删除、修改便签只需登录GitHub账号，数据同步，自动瀑布流排版、鼠标移动等功能。
@@ -13,7 +27,6 @@
 
 > 项目源码:https://github.com/HuangHongRui/Express-memo
 
-## 项目经历
 [在线简历编辑器](https://huanghongrui.github.io/VueResume/dist/#/)
 
 > 项目简介：
