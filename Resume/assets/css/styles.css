@@ -25,6 +25,9 @@ h5,
 h6 {
   font-weight: 700;
 }
+p{
+  font-size: 18px;
+}
 a {
   color: #2d7788;
   -webkit-transition: all 0.4s ease-in-out;
@@ -55,10 +58,11 @@ p {
   background: #42A8C0;
   position: absolute;
   right: 0;
-  width: 240px;
+  width: 300px;
   height: 100%;
   min-height: 800px;
   color: #fff;
+  padding:100px 0;
 }
 .sidebar-wrapper a {
   color: #fff;
@@ -81,9 +85,15 @@ p {
   font-weight: 400;
   margin: 0 10px;
 }
+
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
   border-radius:  150px;
+}
+.sidebar-wrapper .container-block p {
+  font-size:20px;
+  letter-spacing:2px;
+
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
@@ -92,6 +102,7 @@ p {
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
+  font-size: 16px;
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
@@ -107,18 +118,20 @@ p {
 }
 .sidebar-wrapper .container-block {
   padding: 30px;
-  padding-bottom: 0;
 }
+
+
 .sidebar-wrapper .container-block-title {
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 19px;
   font-weight: 700;
   margin-top: 0;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
-.sidebar-wrapper .degree {
-  font-size: 14px;
+.sidebar-wrapper p.degree {
+  font-size: 17px;
   margin-top: 0;
+  letter-spacing:1px;
   margin-bottom: 5px;
 }
 .sidebar-wrapper .education-container .item {
@@ -162,7 +175,7 @@ p {
 .main-wrapper {
   background: #fff;
   padding: 60px;
-  padding-right: 300px;
+  padding-right: 360px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
@@ -206,11 +219,11 @@ p {
   margin-bottom: 2px;
 }
 .main-wrapper .job-title {
-  color: #3F4650;
-  font-size: 16px;
+  color: #42A8C0;
+  font-size: 18px;
   margin-top: 0;
   margin-bottom: 0;
-  font-weight: 500;
+  font-weight: 600;
 }
 .main-wrapper .time {
   position: absolute;
@@ -219,7 +232,7 @@ p {
   color: #97AAC3;
 }
 .main-wrapper .company {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   color: #97AAC3;
 }
 .main-wrapper .project-title {
@@ -232,7 +245,8 @@ p {
   margin-bottom: 30px;
 }
 .main-wrapper .projects-section .item {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
+  font-size: 18px;
 }
 .skillset .item {
   margin-bottom: 15px;
