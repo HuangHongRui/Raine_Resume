@@ -552,9 +552,36 @@ section {
 .education-undergraduate.timeline-item::before {
   content: "\f02e";
 }
+.education-learn,
+.education-work,
 .education-year,
 .education-major {
   padding-left: 28px;
+  margin-left: 0;
+}
+.education-learn::before {
+  font-family: FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translate(0, 0);
+  content: "\f18d";
+  width: 30px;
+  margin-left: -27px;
+  display: inline-block;
+}
+.education-work::before {
+  font-family: FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translate(0, 0);
+  content: "\f12d";
+  width: 30px;
+  margin-left: -28px;
+  display: inline-block;
 }
 .education-major::before {
   font-family: FontAwesome;
@@ -916,6 +943,10 @@ header,
 
 .skills-miscellaneous.timeline-item.another::before {
   content: "\f164";
+}
+
+.skills-miscellaneous.timeline-item.beizhu::before {
+  content: "\f181"
 }
 
 .skills .sec-title-wrapper.another::before {
